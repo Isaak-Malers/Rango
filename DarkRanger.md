@@ -59,9 +59,13 @@ A Dark Ranger may not have more than a single Undead Companion at a time.  Witho
 
 A Dark Ranger gains the bonus from Track as long as the target is living.
 
-### Expirienced Horrors:
+###Expirienced Horrors:
 
 A Dark Ranger has expirienced the horrors of the necromantic and arcane arts.  +2 will save against magic.
+
+###Dread Cavalier:
+
++2 to all Ride related rolls while on an undead mount.
 
 ###Favored Enemy:
 
