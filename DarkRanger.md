@@ -26,7 +26,7 @@ Climb, Concentration, Craft, Handle Animal, Hide, Jump, Knowledge Arcana, Knowle
 | 6     | +6/+1             | +3        | +5       | +3        | Improved Black Weaponry                                           | 1   |     |     |     |
 | 7     | +7/+2             | +3        | +5       | +3        |                                                                   | 1   |     |     |     |
 | 8     | +8/+3             | +4        | +6       | +4        | Flurry of Blades                                                  | 1   | 0   |     |     |
-| 9     | +9/+4             | +4        | +6       | +4        |                                                                   | 1   | 0   |     |     |
+| 9     | +9/+4             | +4        | +6       | +4        | Evasion                                                           | 1   | 0   |     |     |
 | 10    | +10/+5            | +5        | +7       | +5        | 3rd favored enemy                                                 | 1   | 1   |     |     |
 | 11    | +11/+6/+1         | +5        | +7       | +5        | Masterwork Black Weaponry                                         | 1   | 1   | 0   |     |
 | 12    | +12/+7/+2         | +6        | +8       | +6        |                                                                   | 1   | 1   | 1   |     |
